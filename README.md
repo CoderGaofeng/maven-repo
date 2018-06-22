@@ -2,7 +2,7 @@
 
 ```
  maven {
-            url "https://raw.githubusercontent.com/prayxiang/maven-repo/master/android"
+            url "https://raw.githubusercontent.com/CoderGaofeng/maven-repo/master/android"
         }
 ```
 
