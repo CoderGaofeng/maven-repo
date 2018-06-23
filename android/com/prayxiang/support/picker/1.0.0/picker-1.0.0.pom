@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>PickerView</groupId>
-      <artifactId>wheelview</artifactId>
-      <version>unspecified</version>
+      <groupId>com.prayxiang.support</groupId>
+      <artifactId>wheel</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
